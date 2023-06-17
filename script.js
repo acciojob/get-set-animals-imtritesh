@@ -7,8 +7,7 @@ class Animal {
 		return this._species;
 	}
 	makeSound() {
-		bark();
-		purr();
+		
 	}
 }
 
